@@ -1,3 +1,4 @@
+![take home readme](https://user-images.githubusercontent.com/93561950/173266674-375af126-96b9-4f41-b868-224216a64e44.png)
 # Customer-Success-Project
 Evaluating health care data-related questions, relative user performance, a user feedback investigation, and the impact of environmental changes.
 
