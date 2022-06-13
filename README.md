@@ -6,7 +6,7 @@ Evaluating health care data-related questions, relative user performance, a user
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
 * [Data Source](#data-source)
-* [Further analysis](#further-analysis)
+* [Further Analysis](#further-analysis)
 
 
 ## General Information
@@ -30,5 +30,5 @@ Further anaylsis is explored in the pdf presentation file.
 ## Data Source
 .csv files are located in the Data folder. 
 
-## Further analysis
+## Further Analysis
 Opportunities for further analysis include examining other factors that may be impacting an increased length of stay. For example, people admitted with COVID may ultimately end up with complications in their medical course, which may impact LOS. Additionally, someone who recently had COVID may be at risk for re-admission due to ongoing respiratory issues or other COVID related side effects. 
